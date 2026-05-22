@@ -2,7 +2,7 @@
 
 ### I do Java Backend/DevOps Engineering things
 
-[![Website shields.i](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+[![Website shields.i](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://viet-portfolio-mu.vercel.app/)
 
 - 🔭 I'm currently working on **[my fullstack project](https://github.com/supaFrik/Nike-e-commerce-web-application)**
 
