@@ -2,21 +2,21 @@
 
 ### A curios Backend Engineer
 
-- 🔭 I'm currently working on my fullstack project **[https://github.com/supaFrik/Nike-e-commerce-web-application](https://github.com/supaFrik/Nike-e-commerce-web-application)**
+- 🔭 I'm currently working on **[my fullstack project](https://github.com/supaFrik/Nike-e-commerce-web-application)**
 
 - 🌱 I'm currently learning **Spring Boot**
 
 - 🤝 I like to talk about **Java** and **Spring Boot**
 
-- 💬 Ask me anything on my issue page **[https://github.com/issues/assigned](https://github.com/issues/assigned)**
+- 💬 Ask me anything on my **[issues page](https://github.com/issues/assigned)**
 
-- 📫 Connect with me on **tqv2005tc@gmail.com**
+- 📫 Connect with me at [LinkedIn](https://www.linkedin.com/in/viet-trinh-20a4333a7)
 
 - ⚡ Fun fact: **I'm actually an extroverted loner**
 
-- 👨‍💻 All of my projects are available at **[https://viet-portfolio-mu.vercel.app/](https://viet-portfolio-mu.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[my portfolio](https://viet-portfolio-mu.vercel.app/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/17_ZONv2jHdVrkH4lZ1S1FLl-mAxmSqWK/view?usp=sharing](https://drive.google.com/file/d/17_ZONv2jHdVrkH4lZ1S1FLl-mAxmSqWK/view?usp=sharing)**
+- 📄 Know about **[my experiences](https://drive.google.com/file/d/17_ZONv2jHdVrkH4lZ1S1FLl-mAxmSqWK/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
